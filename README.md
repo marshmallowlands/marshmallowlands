@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="./src/banner.png" align="center"/>
+
+- 🔭 I’m currently working on studying and a Minecraft mod.
+- 🌱 I’m currently learning Electrical Engineering, the Rust programming language, the Kotlin programming language.
+- 👯 I’m looking to collaborate on Minecraft hacking!
+- 🤔 I’m looking for help with Minecraft mod hacking.
+- 💬 Ask me about any thing if I know (?)
+- 📫 How to reach me: `suibing112233@outlook.com`
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Maybe after we had been friends, you can find something interesting of me?
+
+---
+
+And what's more, I'm still leaning in a university, I don't have too much time in hacking my loving projects, so they might be updated slowly.
+
+In another way think, my major is about `Electrical`, my coding skill doesn't as well as the `Computer Science`.I love CS, but my `The college entrance exam score` say "NO,YOU DON'T LOVE IT", so I get into the `Electrical Engineering`. 
+
+BUT, WHAT A GOOD MAJOR IT IS!
