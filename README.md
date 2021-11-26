@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="./src/banner.png" align="center"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 - 🔭 I’m currently working on studying and a Minecraft mod.
 - 🌱 I’m currently learning Electrical Engineering, the Rust programming language, the Kotlin programming language.
