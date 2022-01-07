@@ -15,10 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![SUIBING112233's GitHub stats](https://github-readme-stats.vercel.app/api?username=SUIBING112233&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html,css,glsl,typescript)](https://github.com/anuraghazra/github-readme-stats)
-
+<div align="center">
+<a href="https://github.com/SUIBING112233/SUIBING112233">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SUIBING112233&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/SUIBING112233/SUIBING112233">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html,css,glsl,typescript" />
+</a>
+</div>
+  
 - 🔭 I’m currently working on studying and a Minecraft mod.
 - 🌱 I’m currently learning Electrical Engineering, the Rust programming language, the Kotlin programming language.
 - 👯 I’m looking to collaborate on Minecraft hacking!
