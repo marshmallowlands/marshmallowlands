@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![SUIBING112233's GitHub stats](https://github-readme-stats.vercel.app/api?username=SUIBING112233&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html,css,glsl)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on studying and a Minecraft mod.
 - 🌱 I’m currently learning Electrical Engineering, the Rust programming language, the Kotlin programming language.
