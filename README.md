@@ -40,3 +40,5 @@ And what's more, I'm still leaning in a university, I don't have too much time i
 In another way think, my major is about `Electrical`, my coding skill doesn't as well as the `Computer Science`.I love CS, but my `The college entrance exam score` say "NO,YOU DON'T LOVE IT", so I get into the `Electrical Engineering`. 
 
 BUT, WHAT A GOOD MAJOR IT IS!
+
+![GPG](https://img.shields.io/badge/-0x38820F4C51AF4A5F-blueviolet?style=for-the-badge&logo=GNU%20Privacy%20Guard)
