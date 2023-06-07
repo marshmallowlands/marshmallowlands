@@ -24,7 +24,7 @@
 
 In general, my skills are all distributed in embedded systems and back-end programming.
 
-Anyway, I like these two aspects, but I'm better at writing programs than drawing PCBs.Although PCB drawing is my profession.
+Anyway, I like these two aspects, but I'm better at writing programs than drawing PCBs. Although PCB drawing is my profession.
 
 In future plans, I intend to learn about embedded ports of Linux and compilers.
 
