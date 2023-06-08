@@ -17,7 +17,7 @@
 - 📫 How to reach me: `suibing112233@outlook.com`
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Maybe after we had been friends, you can find something interesting of me?
-- 🧭 Language: Chinese（中文）, English. Other language will use translator.
+- 🧭 Language: Chinese（中文）, English. Other languages will use the translator.
 ---
 
 # Skills
@@ -35,7 +35,7 @@ In future plans, I intend to learn about embedded ports of Linux and compilers.
 - ✅ Java/Kotlin
 - ✅ C/C++
 - ✅ TypeScript/JavaScript
-- ✅ PHP(In the past)
+- ✅ PHP (In the past)
 
 ## Embedded
 
