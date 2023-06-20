@@ -22,7 +22,7 @@
 
 <div align="center">
   <a href="https://github.com/Krysztal112233/Krysztal112233">
-    <img align="center" src="https://github-widgetbox.vercel.app/api/skills?languages=java,rust,c,cpp,js,ts,kotlin,go,php,markdown,yaml&tools=git,docker,redis,postgres&software=linux,windows,vscode">
+    <img align="center" src="https://github-widgetbox.vercel.app/api/skills?languages=java,rust,c,cpp,js,ts,kotlin,go,php,markdown,yaml&tools=git,docker,redis,postgres&software=linux,windows,vscode&theme=carbon">
   </a>
 </div>
 
