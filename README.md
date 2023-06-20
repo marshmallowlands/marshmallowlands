@@ -20,36 +20,11 @@
 - 🧭 Language: Chinese（中文）, English. Other languages will use the translator.
 ---
 
-# Skills
-
-In general, my skills are all distributed in embedded systems and back-end programming.
-
-Anyway, I like these two aspects, but I'm better at writing programs than drawing PCBs. Although PCB drawing is my profession.
-
-In future plans, I intend to learn about embedded ports of Linux and compilers.
-
-## Programming Language
-
-- ✅ Rust
-- ✅ Golang
-- ✅ Java/Kotlin
-- ✅ C/C++
-- ✅ TypeScript/JavaScript
-- ✅ PHP (In the past)
-
-## Embedded
-
-- ✅ ESP32-[C3 ,S2 ,S3]
-- ✅ K210 (Still learning)
-
-## Stacks
-
-- ✅ Paper/Spigot/Bukkit plugin
-- ✅ Vue3
-- ✅ Fabric Mods
-- ✅ rocket.rs
-- ✅ Iris Go
-- ✅ ESP-IDF (or ESP-IDF RS)
+<div align="center">
+  <a href="https://github.com/Krysztal112233/Krysztal112233">
+    <img align="center" src="https://github-widgetbox.vercel.app/api/skills?languages=java,rust,c,cpp,js,ts,kotlin,go,php">
+  </a>
+</div>
 
 In the recent past, we have often studied how to write programs for embedded systems using the Rust language. Out of interest, I like to open Minecraft service to play with friends.
 
