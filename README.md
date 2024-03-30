@@ -19,6 +19,3 @@
     <img align="center" src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,kotlin,go,html,markdown,yaml&tools=git,docker,redis,postgres&software=linux,windows,vscode&theme=carbon">
   </a>
 </div>
-
-
-![GPG](https://img.shields.io/badge/-0x38820F4C51AF4A5F-blueviolet?style=for-the-badge&logo=GNU%20Privacy%20Guard)
