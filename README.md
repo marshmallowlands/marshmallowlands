@@ -1,20 +1,6 @@
-### Hi there 👋
+### 👋 你好！我是 Marshmallowlands
+欢迎你的到来！
 
-<div align="center">
-<a href="https://github.com/marshmallowlands/marshmallowlands">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marshmallowlands&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/marshmallowlands/marshmallowlands">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marshmallowlands" />
-</a>
-</div>
-
-- 📫 How to reach me: `marshmallow-land@qq.com`
-- 🧭 Language: Chinese（中文）, English. Other languages will use the translator.
----
-
-<div align="center">
-  <a href="https://github.com/marshmallowlands/marshmallowlands">
-    <img align="center" src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,kotlin,go,html,markdown,yaml&tools=git,docker,redis,postgres&software=linux,windows,vscode&theme=carbon">
-  </a>
-</div>
+- 📕 如果你想看我的博客的话， [点我](https://marshmallowlands.github.io/)
+- 📫 如果你想联系我的话，这是邮箱地址 `marshmallow-land@qq.com`
+- 👉 如果想了解我，[点此了解](https://marshmallowlands.github.io/about-me)
