@@ -5,7 +5,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=marshmallowlands&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/marshmallowlands/marshmallowlands">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marshmallowlands&hide=javascript,html,css,shell" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marshmallowlands" />
 </a>
 </div>
 
